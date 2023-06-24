@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is Amisha Kumari
+## Hi there 👋, My Name is Amisha Kumari
 #### I am web developer from India.
 
 - 🔭 I’m currently working on website development 
