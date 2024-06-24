@@ -2,7 +2,7 @@
 #### I am web developer from India.
 
 - 🔭 I’m currently working on website development 
-- 🌱 I’m currently learning MongoDB, Java, Data structure, C++, Web Development.
+- 🌱 I’m currently learning Java, Data structure, C++, Web Development.
 - 👯 I’m looking to collaborate on Web Projects 
 
 
@@ -12,7 +12,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amisha-kumari0204)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha-kumari0204)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha-kumari0204)](https://github.com/Amisha-kumari0204/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha-kumari0204&show_icons=true)  
 
@@ -20,6 +20,6 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Amisha-kumari0204)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khubeshAmisha-kumari0204dsingh)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Amisha-kumari0204)  
 
 ![Profile views](https://gpvc.arturio.dev/Amisha-kumari0204)  
