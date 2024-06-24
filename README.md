@@ -14,12 +14,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha-kumari0204)](https://github.com/Amisha-kumari0204/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha-kumari0204&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha-kumari0204&show_icons=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Amisha-kumari0204)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Amisha-kumari0204)
 
-![GitHub metrics](https://metrics.lecoq.io/Amisha-kumari0204)  
+![GitHub metrics](https://metrics.lecoq.io/Amisha-kumari0204)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Amisha-kumari0204)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Amisha-kumari0204)
 
-![Profile views](https://gpvc.arturio.dev/Amisha-kumari0204)  
+![Profile views](https://gpvc.arturio.dev/Amisha-kumari0204)
