@@ -21,3 +21,4 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Amisha-kumari0204)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Amisha-kumari0204)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amisha-kumari0204)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha-kumari0204)](https://github.com/Amisha-kumari0204/github-readme-stats)
